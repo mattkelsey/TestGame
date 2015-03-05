@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Apps\TestGame\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\libs\internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="D:\Apps\TestGame\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.0-4fdff710600bcb55ad9f8330eec7b5c4b416dbf5.jar" />
+    </item>
+    <item
+        jar="D:\Programs\Android SDK\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.0\support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="D:\Apps\TestGame\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.0-ae861106a205b478b3aee6d75cdd5ee985c3fbc2.jar" />
+    </item>
+    <item
+        jar="D:\Apps\TestGame\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="D:\Apps\TestGame\app\build\intermediates\pre-dexed\debug\classes-1c974fda5e765629c58e51b00b821c11673b3b0e.jar" />
+    </item>
+    <item
+        jar="D:\Apps\TestGame\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="95fd37732ec852e99f07eeb516a3650172f1d136">
+        <dex dex="D:\Apps\TestGame\app\build\intermediates\pre-dexed\debug\classes-7dae1895b1c00fcf1ae113ff4a05b48da3acd595.jar" />
+    </item>
+
+</items>
